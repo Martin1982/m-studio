@@ -1,0 +1,27 @@
+{
+  "name": "M-Studio",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Martin1982/m-studio",
+  "authors": [
+    "Martin de Keijzer <martin.dekeijzer@gmail.com>"
+  ],
+  "description": "M-Studio an in-browser DAW",
+  "main": "index.html",
+  "keywords": [
+    "DAW",
+    "music",
+    "WebAPI"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.10"
+  }
+}
